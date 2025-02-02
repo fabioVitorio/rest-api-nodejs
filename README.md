@@ -37,7 +37,7 @@ Esta é uma API Rest simples criada para fins de estudo utilizando Node.js e o f
 
 ##
 
-### Postman - Client Consumindo API
+### Postman - Client Consumindo os Endpoints da API
 
 - **GET /customers**: Lista todos os clientes
 ![image](https://github.com/user-attachments/assets/aabeb4fb-a4e4-491a-9d9a-a0237d884d30)
