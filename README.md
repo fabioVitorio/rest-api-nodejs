@@ -18,7 +18,7 @@ Esta é uma API Rest simples criada para fins de estudo utilizando Node.js e o f
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/api-rest-estudo-nodejs.git
+   git clone https://github.com/fabioVitorio/rest-api-nodejs.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
